@@ -30,4 +30,4 @@
 - **Programming & ML/Data:** Python, Scikit-learn, Pandas, NumPy, MATLAB, Processing IDE
 - **Web & Design:** FastAPI, Uvicorn, React, HTML5/CSS3/JavaScript, CorelDRAW, Illustrator, Photoshop
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mathuprasath-kv-453056365) • `mathuprasathkvasu@gmail.com`
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mathuprasath-k-v-453056365) • `mathuprasathkvasu@gmail.com`
