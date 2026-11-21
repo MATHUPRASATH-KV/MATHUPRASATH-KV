@@ -21,7 +21,7 @@
   180° scanning `HC-SR04` + servo radar streaming UART telemetry to a custom **Processing IDE** graphical radar GUI (`10–40 cm` range rings, real-time green/red obstacle detection, and live angle/distance readouts).
 
 - **👓 Ultrasonic Assistive Glasses for the Visually Impaired**  
-  Wearable obstacle-detection aid with a front-bridge-mounted `HC-SR04` ultrasonic sensor.
+  Microcontroller-less wearable obstacle-detection aid combining a front-bridge `HC-SR04` ultrasonic sensor with a temple-mounted `NE555` timer IC, RC timing network (`10 kΩ / 1 kΩ`, `10 µF / 100 µF`), piezo buzzer, and `3.7 V` Li-ion power.
 
 ---
 
